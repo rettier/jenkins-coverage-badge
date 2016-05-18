@@ -1,5 +1,7 @@
 # jenkins-coverage-badge
 
+Added username and password for basic auth.
+
 The MISSING [shields.io](http://shields.io) badge, Jenkins-coverage.
 
 This tiny web server will generate your Jenkins-code-coverage badge!
